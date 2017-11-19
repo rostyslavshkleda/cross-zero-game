@@ -1,0 +1,13 @@
+body {
+	background-color: lightblue;
+}
+.cell {
+	background-color: yellow;
+ 	width: 32%;
+ 	height: 270px;
+ 	margin: 5px;
+ 	font-size: 200px;
+}  
+.cell:hover {
+	border: 2px solid red;
+}
